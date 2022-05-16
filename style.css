@@ -1,20 +1,26 @@
 * {
-  text-align: center;
+  /* text-align: center; */
   background-color: antiquewhite;
+}
+
+.crepe-link,
+.cupcake-link,
+.homepage-pic {
+  text-align: center;
 }
 
 .crepe-link,
 .cupcake-link {
   font-family: Raleway;
 }
-.homepage-pic {
-  width: 600px;
-  height: auto;
-}
+
 h1 {
   font-family: "Oleo Script Swash Caps", cursive;
+  text-align: center;
 }
 
 img {
   border-radius: 30px;
+  width: 600px;
+  height: auto;
 }
