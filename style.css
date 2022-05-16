@@ -2,12 +2,14 @@
   /* text-align: center; */
   background-color: antiquewhite;
 }
-
-.crepe-link,
+div {
+  text-align: center;
+}
+/* .crepe-link,
 .cupcake-link,
 .homepage-pic {
   text-align: center;
-}
+} */
 
 .crepe-link,
 .cupcake-link {
